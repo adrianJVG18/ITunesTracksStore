@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.1535" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17844202898550723" />
+        <entry key="app/src/main/res/layout/activity_track_store.xml" value="0.17753623188405798" />
+        <entry key="app/src/main/res/layout/fragment_search_bar.xml" value="0.17844202898550723" />
+        <entry key="app/src/main/res/layout/fragment_track_list.xml" value="0.17844202898550723" />
+        <entry key="app/src/main/res/layout/fragment_track_player.xml" value="0.265487892040308" />
+        <entry key="app/src/main/res/layout/item_track.xml" value="0.30828822039175724" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ITunesStore</string>
+
+    <!-- Tracks Store -->
+    <string name="tracks_store_search_bar_hint">Buscar</string>
+    <string name="empty_state_body">No hay resultados disponibles</string>
+</resources>
